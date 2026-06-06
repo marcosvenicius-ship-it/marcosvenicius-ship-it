@@ -27,9 +27,9 @@ Atualmente, utilizo a tecnologia para criar soluções práticas que otimizam ro
     </a>
 </p>
 
-## 🚀 Projeto em Destaque
+## Projeto em Destaque (Baseado em dor real de mercado/área)
 
-### 🧠 [Automação de CRM & Qualificação de Leads com IA](https://github.com/marcosvenicius-ship-it/automato)
+### [Automação de CRM & Qualificação de Leads com IA](https://github.com/marcosvenicius-ship-it/automato)
 > Aplicação Full-Stack contruída com **Java (Spring Boot 3)** no Backend e hospedada no **Render**, integrada à **API do Google Gemini** via Docker para ler históricos de chats de vendas e preencher dados estruturados automaticamente em sistemas de CRM. Interface construída com **JavaScript Assíncrono** hospedada no **GitHub Pages**. Essa aplicação foi feita para otimizar os processos de atendimento e cadastro no CRM do meu time de geração de demandas.
 
 ---
@@ -58,7 +58,7 @@ Atualmente, utilizo a tecnologia para criar soluções práticas que otimizam ro
 
 ---
 
-### 🧠 Filosofia de Desenvolvimento e Aprendizado
+### Filosofia de Desenvolvimento e Aprendizado
 
 > *"Aprendi que programar não se resume apenas em resolução de problemas.
 Trata-se também de construir soluções que sejam escaláveis, duradouras e que gerem valor real."*
