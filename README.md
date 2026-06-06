@@ -2,7 +2,7 @@
 
 **`GDM / Pré-vendas focado em Automação de Processos e Desenvolvimento Java.`**
 
-Me chamo Marcos Venicius Lima de Oliveira, tenho 26 anos e sou natural do Piauí, mas resido em São Paulo desde 2007. Estudo Análise e Desenvolvimento de Sistemas na faculdade Impacta Tecnologia, e atuo no time de GDM (Geração de Demandas de Marketing) na empresa TOTVS há 5 anos. Desde sempre sou apaixonado por tecnologia e estou em processo de migração para a área dos meu sonhos.
+Meu nome é Marcos Venicius Lima de Oliveira, tenho 26 anos e sou natural do Piauí, mas resido em São Paulo desde 2007. Estudo Análise e Desenvolvimento de Sistemas na faculdade Impacta Tecnologia, e atuo no time de GDM (Geração de Demandas de Marketing) na empresa TOTVS há 5 anos. Desde sempre sou apaixonado por tecnologia e estou em processo de migração para a área dos meu sonhos.
 
 Atualmente, utilizo a tecnologia para criar soluções práticas que otimizam rotinas comerciais, aceleram o preenchimento de CRMs e elevam a produtividade de times de negócios.
 
