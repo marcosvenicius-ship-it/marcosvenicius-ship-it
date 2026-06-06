@@ -60,4 +60,7 @@ Atualmente, utilizo a tecnologia para criar soluções práticas que otimizam ro
 
 ### 🧠 Filosofia de Desenvolvimento e Aprendizado
 
-> *"Escrever código em Java não é apenas sobre sintaxe, é sobre arquitetar soluções eficientes para o dia a dia. O aprendizado é constante, mas a verdadeira maestria vem de aplicar cada linha de código para transformar e otimizar o ambiente de trabalho."*
+> *"Aprendi que programar não se resume apenas em resolução de problemas.
+Trata-se também de construir soluções que sejam escaláveis, duradouras e que gerem valor real."*
+
+
